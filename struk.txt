@@ -1,0 +1,7 @@
+=== STRUK BELANJA ===
+vitamin - 10 x Rp10000 = Rp100000
+susu - 10 x Rp5000 = Rp50000
+
+Total: Rp150000
+Uang dibayar: Rp200000
+Kembalian: Rp50000
